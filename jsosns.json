@@ -1,0 +1,1509 @@
+{
+    "productoras": [
+        {
+            "nombre": "Epic Games",
+            "sagas": [
+                {
+                    "nombre": "Fortnite",
+                    "juegos": [
+                        {
+                            "titulo": "Fortnite",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Jamal Leila Rodriguez García2"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Gears of War",
+                    "juegos": [
+                        {
+                            "titulo": "Gears of War 2",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Katarina Katarina Sokolov Chen10"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Gears of War 3",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Kwabena Brown Abadi22"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Gears of War 5",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Leila Fatima Chandra20"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Unreal Tournament 2004",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Malik Yasin Suleiman1"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Unreal Tournament",
+                    "juegos": [
+                        {
+                            "titulo": "Unreal Tournament 3",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Ingrid Ono García12"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Unreal Tournament (2019)",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Jamal Ahmed Mueller Ahmed6"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Activision",
+            "sagas": [
+                {
+                    "nombre": "Call of Duty",
+                    "juegos": [
+                        {
+                            "titulo": "Call of Duty",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Ayana Ebru Gómez Patel3"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Call of Duty: Modern Warfare",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Jamal Leila Rodriguez García2"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Call of Duty: Black Ops",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Jamal Ahmed Mueller Ahmed6"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Crash Bandicoot",
+                    "juegos": [
+                        {
+                            "titulo": "Crash Bandicoot",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Youssef Abdi5"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Crash Bandicoot 2: Cortex Strikes Back",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Ingrid Petrov15"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Crash Bandicoot: Warped",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Svetlana Ito Singh13"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Spyro the Dragon",
+                    "juegos": [
+                        {
+                            "titulo": "Spyro the Dragon",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Fatima Petrov Gómez7"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Spyro 2: Ripto's Rage!",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Mohammed Lee Bakker21"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Spyro: Year of the Dragon",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Svetlana Ito Singh13"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Nintendo",
+            "sagas": [
+                {
+                    "nombre": "Mario",
+                    "juegos": [
+                        {
+                            "titulo": "Super Mario Bros.",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Malik Ayana Rodriguez22"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Super Mario Bros. 3",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Ingrid Ono García12"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Super Mario World",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Fatima Petrov Gómez7"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre": "The Legend of Zelda",
+                    "juegos": [
+                        {
+                            "titulo": "The Legend of Zelda",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Ayana Ebru Gómez Patel3"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "The Legend of Zelda: Ocarina of Time",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Isabella Rahman5"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "The Legend of Zelda: Breath of the Wild",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Youssef Nguyen Fernández20"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Pokémon",
+                    "juegos": [
+                        {
+                            "titulo": "Pokémon Red and Blue",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Hiroshi Gómez Ito4"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Pokémon Gold and Silver",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Tariq Jin Soo González8"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Pokémon Ruby and Sapphire",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Ebru Ahmed Nkosi3"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Ubisoft",
+            "sagas": [
+                {
+                    "nombre": "Assassin's Creed",
+                    "juegos": [
+                        {
+                            "titulo": "Assassin's Creed",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Svetlana Ito Singh13"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Assassin's Creed II",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Jamal Leila Rodriguez García2"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Assassin's Creed: Brotherhood",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Ingrid Ono García12"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Far Cry",
+                    "juegos": [
+                        {
+                            "titulo": "Far Cry",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Fatima Petrov Gómez7"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Far Cry 2",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Jamal Leila Rodriguez García2"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Far Cry 3",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Juan Chen Dubois5"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Prince of Persia",
+                    "juegos": [
+                        {
+                            "titulo": "Prince of Persia: The Sands of Time",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Fatima Petrov Gómez7"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Prince of Persia: Warrior Within",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Svetlana Ito Singh13"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Prince of Persia: The Two Thrones",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Jamal Leila Rodriguez García2"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Bethesda Softworks",
+            "sagas": [
+                {
+                    "nombre": "The Elder Scrolls",
+                    "juegos": [
+                        {
+                            "titulo": "The Elder Scrolls V: Skyrim",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "María Abdi22"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "The Elder Scrolls IV: Oblivion",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Lucia Patel Ivanov11"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "The Elder Scrolls III: Morrowind",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Juan Katarina O'Reilly21"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Fallout",
+                    "juegos": [
+                        {
+                            "titulo": "Fallout 4",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Fatima Petrov Gómez7"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Fallout: New Vegas",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Lucia Patel Ivanov11"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Fallout 3",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Ingrid Ono García12"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Doom",
+                    "juegos": [
+                        {
+                            "titulo": "Doom",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Malik Yasin Suleiman1"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Doom (2016)",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Antonio Petrov9"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Doom Eternal",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Malik Ayana Rodriguez22"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Sega",
+            "sagas": [
+                {
+                    "nombre": "Sonic the Hedgehog",
+                    "juegos": [
+                        {
+                            "titulo": "Sonic the Hedgehog",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Jamal Leila Rodriguez García2"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Sonic the Hedgehog 2",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Malik Yasin Suleiman1"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Sonic the Hedgehog 3",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "María Abdi22"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Streets of Rage",
+                    "juegos": [
+                        {
+                            "titulo": "Streets of Rage",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Katarina Katarina Sokolov Chen10"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Streets of Rage 2",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Yuki Yuki Wojciechowski López14"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Streets of Rage 3",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Ebru Ahmed Nkosi3"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Phantasy Star",
+                    "juegos": [
+                        {
+                            "titulo": "Phantasy Star",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Ingrid Ono García12"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Phantasy Star II",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Gisele Rossi Nguyen22"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Phantasy Star IV",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Jamal Ahmed Mueller Ahmed6"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Capcom",
+            "sagas": [
+                {
+                    "nombre": "Resident Evil",
+                    "juegos": [
+                        {
+                            "titulo": "Resident Evil",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Ayana Ahmed Müller5"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Resident Evil 2",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Natalya Kwabena Rahman Papadakis10"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Resident Evil 3: Nemesis",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Malik Yasin Suleiman1"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Street Fighter",
+                    "juegos": [
+                        {
+                            "titulo": "Street Fighter II",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Malik Ayana Rodriguez22"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Street Fighter Alpha 3",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Ingrid Ono García12"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Street Fighter IV",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Tariq Jin Soo González8"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Mega Man",
+                    "juegos": [
+                        {
+                            "titulo": "Mega Man",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Malik Ayana Rodriguez22"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Mega Man 2",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Esmeralda Petrov López15"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Mega Man X",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Katarina Katarina Sokolov Chen10"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Square Enix",
+            "sagas": [
+                {
+                    "nombre": "Final Fantasy",
+                    "juegos": [
+                        {
+                            "titulo": "Final Fantasy VII",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Yuki Yuki Wojciechowski López14"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Final Fantasy X",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Svetlana Ito Singh13"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Final Fantasy XV",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Katarina Katarina Sokolov Chen10"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Kingdom Hearts",
+                    "juegos": [
+                        {
+                            "titulo": "Kingdom Hearts",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Gisele Rossi Nguyen22"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Kingdom Hearts II",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Ebru Ahmed Nkosi3"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Kingdom Hearts III",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Leila Fatima Chandra20"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Nier",
+                    "juegos": [
+                        {
+                            "titulo": "Nier",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Juan Gisele Ono13"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Nier: Automata",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Ayana Fernández Alves16"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Nier Replicant ver.1.22474487139...",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Natalia Aisha Mueller Kwiatkowski8"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Valve Corporation",
+            "sagas": [
+                {
+                    "nombre": "Left 4 Dead",
+                    "juegos": [
+                        {
+                            "titulo": "Left 4 Dead",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Svetlana Ito Singh13"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Left 4 Dead 2",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Leila Fatima Chandra20"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Portal",
+                    "juegos": [
+                        {
+                            "titulo": "Portal",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Ayana Ebru Gómez Patel3"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Portal 2",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Juan Chen Dubois5"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Portal: Still Alive",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Malik Yasin Suleiman1"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Half-Life",
+                    "juegos": [
+                        {
+                            "titulo": "Half-Life",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Jamal Leila Rodriguez García2"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Half-Life 2",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Yasin Sokolov13"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Half-Life: Alyx",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Ingrid Petrov15"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Bandai Namco Entertainment",
+            "sagas": [
+                {
+                    "nombre": "Dragon Ball",
+                    "juegos": [
+                        {
+                            "titulo": "Dragon Ball FighterZ",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Ebru Ahmed Nkosi3"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Dragon Ball Xenoverse",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Gisele Rossi Nguyen22"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Dragon Ball Z: Kakarot",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Malik Yasin Suleiman1"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Soulcalibur",
+                    "juegos": [
+                        {
+                            "titulo": "Soulcalibur VI",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Gisele Rossi Nguyen22"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Soulcalibur V",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Youssef Nguyen Fernández20"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Soulcalibur IV",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Ingrid Petrov15"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Digimon Rumble Arena",
+                    "juegos": [
+                        {
+                            "titulo": "Digimon Rumble Arena",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Natalia Aisha Mueller Kwiatkowski8"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Digimon Rumble Arena 2",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Fatima Petrov Gómez7"
+                                        }
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "titulo": "Digimon World: Next Order",
+                            "partidas": [
+                                {
+                                    "fechaini": 0,
+                                    "fechafin": 0,
+                                    "duracion": 0,
+                                    "usuario": {
+                                        "avatar": {
+                                            "nombre": "Jamal Ahmed Mueller Ahmed6"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
