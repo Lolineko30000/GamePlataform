@@ -80,6 +80,11 @@ The resultant diagram is the next:
 ![Alt text](./img/graph.png "Graph")
 
 
+Here we can see the data using a cypher query to retrive all the 
+structure, from te first to the las node, we can see al the groups.
+
+
+![Alt text](./img/graph_view.png "Graph View")
 
 
 ## Results

@@ -2,4 +2,3 @@
 
 /csvs/*.csv
 /jsons/*.json
-/neo4j/*.cypher
