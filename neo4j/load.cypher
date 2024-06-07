@@ -28,9 +28,12 @@ CREATE (j)-[:TIENE_AVATAR]->(:Avatar {id: row.IDUSUARIO, nombre: row.NOMBRE});
 
 
 
-LOAD CSV WITH HEADERS FROM 'file:///Partida.csv' AS row
+LOAD CSV WITH HEADERS FROM 'file:///1_Part_Partida.csv' AS row
 MATCH (a:Avatar {id: row.IDUSUARIO})
 CREATE (a)-[:TIENE_PARTIDA]->(:Partida {idJuego: row.IDJUEGO, fechaInicio: row.FECHAINICIO, fechaFin: row.FECHAFIN, online: row.ONLINE_});
+
+
+
 
 LOAD CSV WITH HEADERS FROM 'file:///Biblioteca.csv' AS row
 MATCH (j:Juego {id: row.IDJUEGO})

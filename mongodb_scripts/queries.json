@@ -1,0 +1,45 @@
+db.Partidas.aggregate([
+    {
+      $unwind: "$sagas"
+    },
+    {
+      $unwind: "$sagas.juegos"
+    },
+    {
+      $unwind: "$sagas.juegos.partidas"
+    },
+    {
+      $project: {
+        PRODUCTORANOMBRE: "$nombre_productora",
+        SAGANOMBRE: "$sagas.nombre_saga",
+        TITULO: "$sagas.juegos.titulo_juego",
+        FECHAINICIO: "$sagas.juegos.partidas.fechaini",
+        FECHAFIN: "$sagas.juegos.partidas.fechafin",
+        DURACION: "$sagas.juegos.partidas.duracion",
+        AVATAR: "$sagas.juegos.partidas.usuario.avatar",
+        USERNAME: "$sagas.juegos.partidas.usuario.username",
+        _id: 0
+      }
+    }
+  ])
+
+
+
+  db.Partidas.aggregate([
+    {
+      $unwind: "$sagas"
+    },
+    {
+      $unwind: "$sagas.juegos"
+    },
+    {
+      $unwind: "$sagas.juegos.partidas"
+    },
+    {
+      $group: {
+        _id: null,
+        count: { $sum: 1 }
+      }
+    }
+  ])
+  

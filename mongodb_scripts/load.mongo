@@ -1,0 +1,6 @@
+use GamePlataform
+db.dropDatabase()
+
+mongoimport --db GamePlataform --collection Partidas --file ./jsons/jsosns_partidas.json --jsonArray
+
+mongoimport --db GamePlataform --collection Ventas --file ./jsons/jsosns_compras.json --jsonArrays
