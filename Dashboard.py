@@ -5,7 +5,7 @@ import altair as alt
 import json
 
 # Load credentials JSON file
-with open('path/to/your/service-account-file.json') as f:
+with open('./Clave-UWU.json') as f:
     credentials_info = json.load(f)
 
 # Initialize BigQuery client using the credentials
