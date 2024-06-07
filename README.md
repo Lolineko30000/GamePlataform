@@ -95,8 +95,9 @@ In this example, we'll explore queries executed in three distinct database archi
 
 ![OLAP](img/OLAP.jpeg)
 
-Big Query
+![BigQuery](img/BigQuery.jpeg)
 
+The significant differences in execution times clearly demonstrate the superior efficiency of BigQuery for handling large-scale data queries. This stark contrast underscores the advantage of using BigQuery for faster, more efficient data processing, making it the optimal choice for performance-critical analytical tasks.
 
 ## Important links
 
