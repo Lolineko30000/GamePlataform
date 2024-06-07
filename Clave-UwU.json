@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "game-plataform",
+  "private_key_id": "9199d85d08c685eec421f21a593e3aed81c8dfb1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCx/B6JakYGzow8\nkuv3GJMQZKvPwl5J6MpailVp5wkziF5BhlzKV5GYK24+EDFbrevS6yPl2SVU/KOY\nvhX3tBzXlnMQFwnozCrZ+AkhXfJt3vMYwxquRsJsZ9kHfvLY03nopJc9Guru5BnY\n7EAfRVTCFG21hCXVXJqzHcMsiWQrRF9auaEer4ssRlZ+zrpD3hto9IWpPjsMHPWh\ndMYZ/bYsSzbzl3L78/H36gK1M8245ykCDwci08jOGWo0L6UjGmgkEjebfFnrjyaH\nyADo7O4WmH16xGj/RG+ILbtnH+t7zd8nB+tD7FD3tOnJj60m9UlQ72A18bjXXiKB\nrJtCwt4ZAgMBAAECggEAEFv305IW0yfXeHbZpPnXhJ14NE2tfHYe6VEHNkdzz06E\nuVmX/EotufKd/Krg2ogjIZ0WzNjXZ1ccU1z/aGff8cnklBFGCiV/985mSnCX6JTi\nO7+tG2EqHCw0ZM28lQTlEubT9twbRW9mV8upPiaRepBFoDZAAvsyxe1ho92R/S7x\nkd1hYXMoK/dT2kNtEEfTQduCBZLE6iCHJjLGcmW4ueoJyL0tgK3vgvJFI1ZfDHla\nGQzH1I47eJvObPUcs1wuolei43Qt1RgGvFn70bTPrD5mZRrAjf2JI1rN5G1W3n7l\n6O+Y9WEeLUr6TFU9LXFpTixvF5cXfINrhn4MrtH3fQKBgQDjh4bl21h46LoQRF/S\noDwUjlsFM/dbp6nCPw2+neKcoxP+VBivQQeV/mf04Iuutz0F4w3geXQ1cxczV8P+\nE10ZKtKbsWi/m3jJVkMSWUzeh8GgPR4Q4S4Hz/B7fd8xjp1CZpPhIDvxAFFE6Qfx\nF0SC0sWcFoDdeVvpL7VFzAk2ZQKBgQDIQYa4IBjAubGTDQst0QwXNUI/Ouy746vp\n7UTzLzgRXCKG0aqMh9/o5NTIxtrefWR1O3Zd5+ryt9hnrjZlM2EhLjYXF58UxWkK\nl5+B5SMe2C2LZjVSzjfuU9mJrblTA09B+LXU6T1fJu2ECKhk6860eEnHAv2u0FKm\ni37HkScjpQKBgDvgq7iL/AF9xZGIXOtSLd1/BSceYOdm/T7YVyal6EAujpFs0j40\nz+lCVVtVSI1HPbDx6vH7JID4c8+YNkUEFYkNAvXkP1vFb4kUwXvvslIRyfwAeYwZ\npoJ5z6DAJF+nV21lD1+8mum2mqyW4vcol2gSTdzg8zLVwEFiw8LFilsdAoGAJaOb\nTLRLsr20UK1c8omeOiZ6gyPyJwaN43QDR6oSYcDthGWYJr3LKh0ImYw2yybKYPaC\nMvhKQsCnXiVyd+cGVJQ4+nIoJmFMcv84rdOBnGSJevAFCcFU5ejAtI4AjUfL99xl\nYNVOAbpxXiW6cO2ZdnY9d7hqMhdZ0Y/ajmwL7TkCgYADy4ARK7Utnl4DPaRf47MW\ngOVoaH7fvaUeJpbU5i7vQ/o7FqVABGnt4th8mfdLuJ0svWg1od1FlwqnS6IBEJUh\npn9O5Tl6/pN+WYo15G3NC4GnuCjAjbGQ6W/kP9yMLp8XqKC0B88oFC36yRrzlVx5\n1t5PxqNRomWnIdJ7NISYXQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "holamundo@game-plataform.iam.gserviceaccount.com",
+  "client_id": "103236823587628425902",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/holamundo%40game-plataform.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -31,6 +31,36 @@ CREATE (j)-[:TIENE_AVATAR]->(:Avatar {id: row.IDUSUARIO, nombre: row.NOMBRE});
 LOAD CSV WITH HEADERS FROM 'file:///1_Part_Partida.csv' AS row
 MATCH (a:Avatar {id: row.IDUSUARIO})
 CREATE (a)-[:TIENE_PARTIDA]->(:Partida {idJuego: row.IDJUEGO, fechaInicio: row.FECHAINICIO, fechaFin: row.FECHAFIN, online: row.ONLINE_});
+LOAD CSV WITH HEADERS FROM 'file:///2_Part_Partida.csv' AS row
+MATCH (a:Avatar {id: row.IDUSUARIO})
+CREATE (a)-[:TIENE_PARTIDA]->(:Partida {idJuego: row.IDJUEGO, fechaInicio: row.FECHAINICIO, fechaFin: row.FECHAFIN, online: row.ONLINE_});
+LOAD CSV WITH HEADERS FROM 'file:///3_Part_Partida.csv' AS row
+MATCH (a:Avatar {id: row.IDUSUARIO})
+CREATE (a)-[:TIENE_PARTIDA]->(:Partida {idJuego: row.IDJUEGO, fechaInicio: row.FECHAINICIO, fechaFin: row.FECHAFIN, online: row.ONLINE_});
+LOAD CSV WITH HEADERS FROM 'file:///4_Part_Partida.csv' AS row
+MATCH (a:Avatar {id: row.IDUSUARIO})
+CREATE (a)-[:TIENE_PARTIDA]->(:Partida {idJuego: row.IDJUEGO, fechaInicio: row.FECHAINICIO, fechaFin: row.FECHAFIN, online: row.ONLINE_});
+LOAD CSV WITH HEADERS FROM 'file:///5_Part_Partida.csv' AS row
+MATCH (a:Avatar {id: row.IDUSUARIO})
+CREATE (a)-[:TIENE_PARTIDA]->(:Partida {idJuego: row.IDJUEGO, fechaInicio: row.FECHAINICIO, fechaFin: row.FECHAFIN, online: row.ONLINE_});
+LOAD CSV WITH HEADERS FROM 'file:///6_Part_Partida.csv' AS row
+MATCH (a:Avatar {id: row.IDUSUARIO})
+CREATE (a)-[:TIENE_PARTIDA]->(:Partida {idJuego: row.IDJUEGO, fechaInicio: row.FECHAINICIO, fechaFin: row.FECHAFIN, online: row.ONLINE_});
+LOAD CSV WITH HEADERS FROM 'file:///7_Part_Partida.csv' AS row
+MATCH (a:Avatar {id: row.IDUSUARIO})
+CREATE (a)-[:TIENE_PARTIDA]->(:Partida {idJuego: row.IDJUEGO, fechaInicio: row.FECHAINICIO, fechaFin: row.FECHAFIN, online: row.ONLINE_});
+LOAD CSV WITH HEADERS FROM 'file:///8_Part_Partida.csv' AS row
+MATCH (a:Avatar {id: row.IDUSUARIO})
+CREATE (a)-[:TIENE_PARTIDA]->(:Partida {idJuego: row.IDJUEGO, fechaInicio: row.FECHAINICIO, fechaFin: row.FECHAFIN, online: row.ONLINE_});
+LOAD CSV WITH HEADERS FROM 'file:///9_Part_Partida.csv' AS row
+MATCH (a:Avatar {id: row.IDUSUARIO})
+CREATE (a)-[:TIENE_PARTIDA]->(:Partida {idJuego: row.IDJUEGO, fechaInicio: row.FECHAINICIO, fechaFin: row.FECHAFIN, online: row.ONLINE_});
+LOAD CSV WITH HEADERS FROM 'file:///10_Part_Partida.csv' AS row
+MATCH (a:Avatar {id: row.IDUSUARIO})
+CREATE (a)-[:TIENE_PARTIDA]->(:Partida {idJuego: row.IDJUEGO, fechaInicio: row.FECHAINICIO, fechaFin: row.FECHAFIN, online: row.ONLINE_});
+
+
+
 
 
 
