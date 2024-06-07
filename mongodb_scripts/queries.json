@@ -31,7 +31,7 @@ db.Partidas.aggregate([
     },
     {
       $unwind: "$sagas.juegos"
-    },
+    },  
     {
       $unwind: "$sagas.juegos.partidas"
     },
