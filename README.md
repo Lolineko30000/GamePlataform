@@ -65,7 +65,8 @@ The diagram was thoght as a star just like an OLAP, following the next diagram:
 The choosen database was Google BigQuery.
 
 
-The dashboard can be acceced throught the next link:
+The dashboard can be acceced throught the next link: [Link](https://gameplataform-fm7rv9cpddqznjdiycgkmy.streamlit.app/)
+
 
 
 ## The graph-based model
@@ -97,5 +98,5 @@ structure, from te first to the las node, we can see al the groups.
 
 * The data: [GoogleDrive](https://drive.google.com/drive/folders/19umbaGA_sQExJP1HnsQT05GSxlaA7H0b?usp=sharing)
 
-* Dashboard: [StreamIt](hola)
+* Dashboard: [StreamIt](https://gameplataform-fm7rv9cpddqznjdiycgkmy.streamlit.app/)
 
