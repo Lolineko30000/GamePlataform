@@ -16,7 +16,7 @@ client = bigquery.Client.from_service_account_info(credentials_info)
 st.set_page_config(page_title='Gaming Dashboard', layout='wide')
 
 # Query data from BigQuery
-@st.cache
+@st.cache_data
 def run_query(query):
     query_job = client.query(query)
     return query_job.result().to_dataframe()
