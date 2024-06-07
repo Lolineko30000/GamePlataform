@@ -18,3 +18,37 @@ FROM PRODUCTORA P
     JOIN JUEGO J ON S.IDSAGA = J.IDSAGA
     JOIN AVATAR A ON J.IDJUEGO = A.IDJUEGO
     JOIN PARTIDAS PA ON J.IDJUEGO = PA.IDJUEGO AND A.IDUSUARIO = PA.IDUSUARIO;
+
+-- Relacional
+SELECT
+    Q.NOMBRE,
+    Q.ID_FECHA,
+    COUNT(*) AS NUM_PARTIDAS
+    FROM (
+        SELECT
+            U.NOMBRE,
+            DENSE_RANK() OVER (ORDER BY DATE(P.FECHAFIN)) AS ID_FECHA
+        FROM GAMEPLATAFORM.PARTIDAS P
+        LEFT JOIN GAMEPLATAFORM.USUARIO U ON U.IDUSUARIO = P.IDUSUARIO
+    ) AS Q
+    GROUP BY
+        Q.NOMBRE,
+        Q.ID_FECHA
+    ORDER BY
+        Q.ID_FECHA;
+
+-- Snow Flake
+SELECT U.NOMBRE, H.IDFECHA, SUM(H.NUM_PARTIDAS)
+    FROM GamePlatform_OLAP.HECHOS H
+    LEFT JOIN GamePlatform_OLAP.USUARIO U ON H.IDUSUARIO = U.IDUSUARIO
+    GROUP BY
+        U.NOMBRE,
+        H.IDFECHA
+    ORDER BY H.IDFECHA;
+
+-- Big Query
+/*SELECT u.string_field_1 AS Usuario, f.int64_field_4 AS Fecha, SUM(f.int64_field_9) as TotalSessions
+FROM `game-plataform.Tablas.Hechos` as f
+JOIN `game-plataform.Tablas.Usuario` as u ON f.int64_field_3 = u.int64_field_0
+GROUP BY u.string_field_1, f.int64_field_4
+ORDER BY f.int64_field_4*/
