@@ -91,9 +91,9 @@ structure, from te first to the las node, we can see al the groups.
 ## Results
 In this example, we'll explore queries executed in three distinct database architectures: Online Transaction Processing (OLTP), Online Analytical Processing (OLAP), and Columnar (Big Query). By examining the execution times across these architectures, we aim to gain insights into their respective efficiencies and performance characteristics.
 
-OLTP
+![OLTP](img/OLTP.jpeg)
 
-OLAP
+![OLAP](img/OLAP.jpeg)
 
 Big Query
 
