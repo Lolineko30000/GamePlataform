@@ -6,7 +6,7 @@ import plotly.express as px
 import json
 
 # Load credentials JSON file
-with open('./Clave-UwU.json') as f:
+with open('Clave-UwU.json') as f:
     credentials_info = json.load(f)
 
 # Initialize BigQuery client using the credentials
